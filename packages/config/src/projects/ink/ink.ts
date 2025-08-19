@@ -23,6 +23,7 @@ export const ink: ScalingProject = opStackL2({
     links: {
       websites: ['https://inkonchain.com/en-US'],
       documentation: ['https://docs.inkonchain.com'],
+      bridges: ['https://inkonchain.com/bridge'],
       explorers: [
         'https://explorer.inkonchain.com',
         'https://okx.com/en-au/web3/explorer/inkchain',

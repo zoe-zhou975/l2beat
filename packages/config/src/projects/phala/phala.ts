@@ -63,6 +63,7 @@ export const phala: ScalingProject = {
       websites: ['https://phala.network/'],
       documentation: ['https://docs.phala.network/'],
       explorers: ['https://explorer.phala.network'],
+      bridges: ['https://app.phala.network/', 'https://subbridge.io/'],
       repositories: ['https://github.com/Phala-Network/'],
       socialMedia: [
         'https://x.com/PhalaNetwork',
